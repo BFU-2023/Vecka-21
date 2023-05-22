@@ -2,7 +2,7 @@
 Repo över vecka 21
 
 ### Dagens kod:
-[]()
+[Repo](https://github.com/BFU-2023/Vecka-21/tree/main/losningsforslag-kortleken)
 
 ### Slides:
 * [Objekt](https://docs.google.com/presentation/d/1hakejkaDYLrKnmP22XXBvFBvxGJlpkoKhMOUOFzCRGM/edit?usp=sharing)
