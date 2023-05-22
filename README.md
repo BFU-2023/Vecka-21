@@ -15,4 +15,4 @@ Repo över vecka 21
 ### Vimeo-länk:
 * []()
 ### Veckans övning:
-[]()
+[Skämtmaskinen](https://github.com/BFU-2023/Sk-mtmaskinen/blob/main/README.md)
