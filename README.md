@@ -13,6 +13,6 @@ Repo över vecka 21
 * [w3 objekt](https://www.w3schools.com/js/js_objects.asp)
 
 ### Vimeo-länk:
-* []()
+* [Inspelning](https://vimeo.com/829784614?share=copy)
 ### Veckans övning:
 [Skämtmaskinen](https://github.com/BFU-2023/Sk-mtmaskinen/blob/main/README.md)
